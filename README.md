@@ -1,5 +1,3 @@
-# pragit-sharma
-Config files for my GitHub profile.
 <h1 align="center">Hi 👋, I'm Pragit Raj Sharma.</h1>
 <h3 align="center">A passionate CSE student, Tech Geek and Linux Enthusiast.</h3>
 
