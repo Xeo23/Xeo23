@@ -22,7 +22,6 @@
 
 <p align="center"> <img src="https://github-readme-stats-pragit-raj-sharma.vercel.app/api?username=pragit-raj-sharma&theme=midnight-purple&show_icons=true&locale=en" alt="pragit-raj-sharma" /> <br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pragit-raj-sharma&theme=midnight-purple&hide_border=false)" alt="pragit-raj-sharma" /> <br><br>
-<img src="https://visitcount.itsvg.in/api?id=pragit-raj-sharma&icon=0&color=6" alt="pragit-raj-sharma" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragit-raj-sharma&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+ 
 </p>
-
-              
