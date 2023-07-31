@@ -26,4 +26,4 @@
  
 </p>
 
-# [![pragit-raj-sharma's GitHub | Languages Over Time](https://stats.quine.sh/pragit-raj-sharma/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=pragit-raj-sharma)
+<!-- [![pragit-raj-sharma's GitHub | Languages Over Time](https://stats.quine.sh/pragit-raj-sharma/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=pragit-raj-sharma) -->
