@@ -25,3 +25,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragit-raj-sharma&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
  
 </p>
+
+[![pragit-raj-sharma's GitHub | Languages Over Time](https://stats.quine.sh/pragit-raj-sharma/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=pragit-raj-sharma)
